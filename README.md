@@ -1,0 +1,2 @@
+# COMSOL-AND-MATLAB
+use MATLAB to control COMSOL
